@@ -1,27 +1,27 @@
 # 2101P2-1
-Figma:
-https://www.figma.com/file/cypGev12Iifc4yuzs1JKUp/2101?node-id=408%3A1692&t=M0PSA5G3iIYx8xFJ-1 
+Figma:<br>
+https://www.figma.com/file/cypGev12Iifc4yuzs1JKUp/2101?node-id=408%3A1692&t=M0PSA5G3iIYx8xFJ-1 <br>
 Video Link:
 
 
-Under Layers -> Pages -> 2101 prototype 
-Our prototype has 3 main flows, Admin, Manager and Staff. Each screen in the prototype is numbered according to the order it should be selected. 
+Under Layers -> Pages -> 2101 prototype <br>
+Our prototype has 3 main flows, Admin, Manager and Staff. <br>Each screen in the prototype is numbered according to the order it should be selected. 
 
 # Change Password :
-From login screen, select change password. 
-Select Email field to fill in email.  
-Select “Generate OTP” button. 
-Select OTP, Password and New password fields. 
-Click submit to be brought back to login page. 
+From login screen, select change password. <br>
+Select Email field to fill in email.  <br>
+Select “Generate OTP” button. <br>
+Select OTP, Password and New password fields. <br>
+Click submit to be brought back to login page. <br>
 # Login Page : 
-Select Email field to fill in email. 
-Select the “eye” icon to be able to view user’s password. 
+Select Email field to fill in email. <br>
+Select the “eye” icon to be able to view user’s password. <br>
 # Admin Flow : 
-######Admin 1 
-Select green add button at bottom of page 
-######Admin 2 
-User is brought to “Add Staff” page 
-Click each field to fill in values, then press submit button to be brought back to overview page 
+###### Admin 1 
+Select green add button at bottom of page <br>
+###### Admin 2 
+User is brought to “Add Staff” page <br>
+Click each field to fill in values, then press submit button to be brought back to overview page <br>
 ######Admin 3 
 Newly added staff “James” appears at bottom of table.  
 Select “Admin” tab from navigation bar at right. 
