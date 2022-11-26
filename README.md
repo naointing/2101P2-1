@@ -1,8 +1,8 @@
 # 2101P2-1
 Figma:<br>
 https://www.figma.com/file/cypGev12Iifc4yuzs1JKUp/2101?node-id=408%3A1692&t=M0PSA5G3iIYx8xFJ-1 <br>
-Video Link:
-
+Video Link: <br>
+https://youtu.be/QCJ2QAZ6buE
 
 Under Layers -> Pages -> 2101 prototype <br>
 Our prototype has 3 main flows, Admin, Manager and Staff. <br>Each screen in the prototype is numbered according to the order it should be selected. 
