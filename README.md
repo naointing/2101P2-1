@@ -5,25 +5,19 @@ Video Link:
 
 
 Under Layers -> Pages -> 2101 prototype 
-
 Our prototype has 3 main flows, Admin, Manager and Staff. Each screen in the prototype is numbered according to the order it should be selected. 
 
-# Admin Flow: 
-Change Password 
+# Change Password :
 From login screen, select change password. 
 Select Email field to fill in email.  
 Select “Generate OTP” button. 
 Select OTP, Password and New password fields. 
-
 Click submit to be brought back to login page. 
-
-Login Page 
-
+# Login Page : 
 Select Email field to fill in email. 
-
 Select the “eye” icon to be able to view user’s password. 
-
-Admin 1  
+# Admin Flow : 
+<bold>Admin 1 <bold>
 
 Select green add button at bottom of page 
 
